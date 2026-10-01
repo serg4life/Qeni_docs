@@ -32,7 +32,7 @@ Brief explanation of the main subsystems...
 ## The PCB design
 The PCB design has 4 layers in order to have enough grounding, layer 2 and 3 are solid ground planes. The stack up has been modified to meet the assembler requiremts as well as a proper width and spacing for differential traces. 
 
-<img src="images/stackup.png" width="400">
+<img src="images/stackup.png" width="600">
 
 ### Considerations
 - The type and size of the vias have been chosed for a cheap manufacturing
@@ -60,7 +60,7 @@ The PCB design has 4 layers in order to have enough grounding, layer 2 and 3 are
 <img src="images/render_top.png" height="400">
 <img src="images/render_bottom.png" height="400">
 
-### Main Components
+## Main Components
 
 - ESP32-S3
 - AMOLED display
@@ -73,7 +73,7 @@ The PCB design has 4 layers in order to have enough grounding, layer 2 and 3 are
 - Li-Po battery management ICs
 - Power management ICs (charging and safety)
 
-## Component Selection
+### Component Selection
 
 Components were selected considering:
 
