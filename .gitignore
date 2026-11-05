@@ -1,0 +1,29 @@
+# KiCad: backups, caches and local settings
+*-backups/
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-bak
+fp-info-cache
+*.kicad_prl
+*.lck
+~*.lck
+_autosave-*
+\#auto_saved_files#
+_saved_*
+
+# KiCad: fabrication outputs (regenerate or attach to a GitHub Release)
+*.gbr
+*.gbrjob
+*.drl
+production/backups/
+
+# Fusion 360 models (published as GitHub Release assets)
+*.f3d
+*.f3z
+*.f3d.lock
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

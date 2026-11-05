@@ -1,0 +1,8 @@
+Default	True	2.0	3
+Audio	True	2.0	3
+FAST	True	2.0	3
+GND	True	2.0	3
+PWR	True	2.0	3
+USB90O	True	2.0	3
+high_current	True	2.0	3
+False	False	False
